@@ -2,5 +2,5 @@
 valentine card customize code from chatGPT
 
 # CodeKodeง่าย
-[http](https://www.facebook.com/codekodeeasy)
-[http](https://www.youtube.com/@CodeKodeEasy)
+[Facebook](https://www.facebook.com/codekodeeasy)
+[Youtube](https://www.youtube.com/@CodeKodeEasy)
