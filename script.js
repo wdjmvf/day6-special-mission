@@ -25,13 +25,12 @@ function sendHearts() {
     } else {
         heartsContainer.appendChild(heart);  //<div class="hearts-container" id="heartsContainer">  <div class="heart" style="left:20%">❤</div>   </div>
     }
-    
+
     setTimeout( ()=> {
-        
         heart.remove(); //ลบหัวใจทิ้ง
         img.remove(); //ลบรูปภาพ
 
-    }, 4000 );
+    }, 3950 ); // ปรับแก้เป็น 3950 จากเดิม 4000 เพราะ css สั่งไว้ 4 วิ ฉันอยากให้มันลบก่อน อนิเมชั่นจะทำงานเสร็จ เพื่อแก้ไขบั๊ก เปิดใน fire fox แล้วยังกะพริบอยู่
 
 }
 
